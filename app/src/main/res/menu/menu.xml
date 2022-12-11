@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="home"  android:id="@+id/home"/>
+    <item android:title="my account"  android:id="@+id/compte"/>
+    <item android:title="Balance Check"  android:id="@+id/solde"/>
+    <item android:title="Money transfer"  android:id="@+id/transfer"/>
+    <item android:title="transfer history"  android:id="@+id/history"/>
+    <item android:title="receive history"  android:id="@+id/historyR"/>
+
+    <item android:title="log out"  android:id="@+id/log_out"/>
+
+
+</menu>
